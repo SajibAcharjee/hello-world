@@ -7,3 +7,7 @@ We decided to stop going to oour university for some days!
 Who knows what will happen?
 All we can do is to be cautious and pray to God for all of us!
 Bye for now.
+
+
+hey all, Congratulate me for my new hello world project on github.
+Let's celebrate :p
